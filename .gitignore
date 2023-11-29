@@ -164,5 +164,6 @@ MoodyLyrics/
 lastfm_train/
 mxm_dataset.db
 mxm_dataset_train.*
+mxm_new_train.csv
 *.dat
 *.zip
