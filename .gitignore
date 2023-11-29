@@ -165,3 +165,4 @@ lastfm_train/
 mxm_dataset.db
 mxm_dataset_train.txt
 *.dat
+*.zip
