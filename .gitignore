@@ -163,6 +163,6 @@ MillionSongSubset/
 MoodyLyrics/
 lastfm_train/
 mxm_dataset.db
-mxm_dataset_train.txt
+mxm_dataset_train.*
 *.dat
 *.zip
