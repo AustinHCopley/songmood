@@ -167,3 +167,7 @@ mxm_dataset_train.*
 mxm_new_train.csv
 *.dat
 *.zip
+DEAM_audio/
+DEAM_img/
+features/
+*.pth
